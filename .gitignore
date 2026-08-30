@@ -1,0 +1,16 @@
+# build output
+bin/
+*.o
+*.so
+*.a
+
+# Part A executables
+part-a/without-bonus/loader
+part-a/without-bonus/fib
+part-a/with-bonus/test/factorial
+
+# macOS / editor noise
+.DS_Store
+*.swp
+*~
+_to_delete/
